@@ -5,5 +5,5 @@ install(
     DESTINATION
         ${CMAKE_INSTALL_PREFIX}/share/smod/decorations/
     RENAME
-        Aero.smod.rcc
+        Aero10.smod.rcc
 )
